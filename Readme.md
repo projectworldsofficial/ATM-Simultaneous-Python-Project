@@ -1,0 +1,19 @@
+ATM SIMULATOR IN PYTHON
+
+Username: user
+
+Pin code: 1234
+
+
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** FOR MORE PROJECTS :- https://projectworlds.in/ *****
+
+
+
+THANK YOU FOR DOWNLOADING :) 
