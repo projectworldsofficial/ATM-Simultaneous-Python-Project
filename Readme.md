@@ -1,8 +1,8 @@
 ATM SIMULATOR IN PYTHON
 
-Username: user
+Username: user2
 
-Pin code: 1234
+Pin code: 2222
 
 
 
